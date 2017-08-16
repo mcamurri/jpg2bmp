@@ -18,3 +18,8 @@ You can run the program with the test image as follows:
 ```
 ./jpg2bmp  ../img/lena_hd.jpg
 ```
+
+Tested on Ubunutu 14.04.
+
+## Acknowledgements
+Thanks to Alessandro Benisi and Francesco Gatti for the development and to Prof. Costantino Grana for the proposal, the assistance and the positive evaluation of this project.
